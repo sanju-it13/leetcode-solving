@@ -9,10 +9,11 @@ public:
 
          // matching from right
 
-        for(int i=n-1, j= m-1 ; i>=0 && j>=0; i--){
+        for(int i=n-1, j= m-1 ; i>=0 && j>=0; --i){
 
             if(word1[i] == word2[j]){
-              right[j--]=i;
+              right[j]=i;
+              --j;
               
             }
         }
@@ -21,7 +22,7 @@ public:
         bool flag = true; 
       // can we change the char in mismatch position ? (only 1 change possible) true -> yes.. false -> no..
       int j =0;
-      for(int i=0; i<n && j<m ; i++){
+      for(int i=0; i<n && j<m ; ++i){
         if(word1[i]==word2[j]){
              answer[j++]=i;
              
