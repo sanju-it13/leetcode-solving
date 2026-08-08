@@ -4,88 +4,41 @@ public:
 
         int n = word1.size();
         int m = word2.size();
-      vector<int>left(m,-1);
+
       vector<int>right(m,-1);
 
-        // matching from Left 
+         // matching from right
 
-        int x=0;
-        for(int j=0;j<m;j++){
-            while(x<n && word1[x]!=word2[j])
-               x++;
+        for(int i=n-1, j= m-1 ; i>=0 && j>=0; i--){
 
-            if(x==n)
-             break;
-
-            left[j]=x;
-            x++;    
-        }
-        
-        // matching from right
-
-        x=n-1;
-        for(int j=m-1;j>=0;j--){
-            while(x>=0 && word1[x]!=word2[j])
-               x--;
-
-            if(x<0)
-             break;
-
-            right[j]=x;
-            x--;    
+            if(word1[i] == word2[j]){
+              right[j]=i;
+              j--;
+            }
         }
 
-        // try each position as mismatch
-
-        for(int j=0; j<m;j++){
-
-            if(j>0 && left[j-1]==-1)
-             break;
-
-            if(j<m-1 && right[j+1]==-1)
-              continue;
-
-            //last index used by prefix
-            int prev = (j==0 ? -1 : left[j-1]); 
-
-            int mismatch = prev +1;
-
-            if(mismatch <n && word1[mismatch]==word2[j]){
-                mismatch ++;
-            
-            }
-
-            int limit = (j==m-1 ? n : right[j+1]);
-
-            if(mismatch >= limit)
-              continue;
-
-            if(left[j]!=-1 && mismatch >= left[j])
-              continue;
-
-            vector<int>answer;
-
-            for(int k=0;k<j;k++)
-             answer.push_back(left[k]);
-
-            answer.push_back(mismatch);
-
-            int pos = mismatch +1;
-            for(int k=j+1;k<m;k++){
-                while(pos<n && word1[pos]!=word2[k])
-                  pos++;
-
-                answer.push_back(pos);
-                pos++ ;
-            }
-
-            return answer;
-
-            }
-            if (left[m-1]!=-1)
-              return left;
-
-            return {};      
+        vector<int>answer(m);
+        bool flag = true; 
+      // can we change the char in mismatch position ? (only 1 change possible) true -> yes.. false -> no..
+      int j =0;
+      for(int i=0; i<n && j<m ; i++){
+        if(word1[i]==word2[j]){
+             answer[j]=i;
+             j++;
         }
-        
+        else if(flag && (j==m-1 || i<right[j+1])){
+            // if i =2.. then the value store in right[] must be after index 2.. otherwise not strictly increasing or lexicographically order like 1,2,3,4...
+             
+             answer[j]=i;
+             j++;
+             flag = false;
+
+        }
+
+        if(j==m) return answer;
+       
+      }
+
+         return {};
+    }
     };
