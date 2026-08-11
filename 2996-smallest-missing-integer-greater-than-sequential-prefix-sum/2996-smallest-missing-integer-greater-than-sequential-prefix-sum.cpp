@@ -12,12 +12,15 @@ public:
                 break;
             }
         }
-        for(int i=0;i<n;i++){
-            if(sum == nums[i]){
-                sum+=1;
-                i=-1;
-            }
-        }
+
+        unordered_set<int>x;
+        for(int i : nums){
+         x.insert(i);
+        }  
+         while(x.count(sum)){
+            sum++;
+         }
+
         return sum;
 
     }
