@@ -4,13 +4,21 @@ public:
         int n=nums.size();
         unordered_map<int,int>frequency;
         int result=0;
+        // left -> left pointer, i -> right pointer
         int left=0;
+        int bad=0;
      for(int i=0;i<n;i++){
         frequency[nums[i]] ++;
-
-        while(frequency[nums[i]] > k){
+        if(frequency[nums[i]]==k+1)
+         bad++;
+        while(bad >0){ 
+        
             frequency[nums[left]] --;
-            left++;
+
+            if(frequency[nums[left]]==k)
+              bad --;
+          
+          left++;
         }
         result = max(result , i-left+1);
 
