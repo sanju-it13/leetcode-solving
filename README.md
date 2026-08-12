@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/sanju-it13/leetcode-solving/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
@@ -107,9 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
