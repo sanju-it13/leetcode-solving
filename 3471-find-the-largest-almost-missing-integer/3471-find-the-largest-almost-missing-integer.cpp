@@ -10,10 +10,10 @@ public:
         for(int i=0;i<n;i++){
             if(k==1 && freq[nums[i]]==1)
                ans=max(ans,nums[i]);
-            if(k==n){
+            else if(k==n){
                 ans=max(ans,nums[i]);
             }   
-            if(freq[nums[i]]==1 && (!i || i==n-1)){
+            else if(freq[nums[i]]==1 && (i==0 || i==n-1)){
                ans=max(ans,nums[i]); 
             }
         }
