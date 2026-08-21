@@ -1,5 +1,26 @@
 class Solution {
 public:
+    
+    // A,B,C -> # coins.. we are calculating the corrected count removing duplicate multiples..
+    /* coins{3,2,5}. and k=4.
+                      3 -> 3,6,9,12
+                      2 -> 2,4,6,8
+                      5->  5,10,15,20
+     start =1.. end =max(3,2,5) *k =5*4=20
+     mid = 1+20 /2 =10;
+     .. smallerCount(10,coins[3,2,5]);
+      we are finding how many smallest number there before mid=10;
+      2,3,4,5,6,6,8,9,[mid=10]
+      //but we have to remove the duplicate.. (6). means Common part.. 
+      
+      for that we use inclusion exclusion principle. AUBUC = |A|+|B|+|C|-|A.B|-|A.C|-|B.C|+ |A.B.C|  
+      for even order expression we substract (-|A.C|-|A.B|) 
+      and for odd order expression we add  (|A|, +|B|,... +|A.B.C|).
+      for 3 coins(A,B,C).. no of expression = 7.. 
+      for n coins.. no. of expression = 2^n-1
+
+   */
+
     long long smallerCount(long long mid, vector<int>& coins){
         long long Correctedcount=0;
         int n =coins.size();
@@ -20,10 +41,11 @@ public:
                   }     
                 }
             }
-
+             //  mid/LCM -> how many duplicate present.
+            
             if(order % 2==0){
                 Correctedcount -= mid/LCM;
-
+            
             }
             else{
                 Correctedcount+= mid/LCM;
@@ -37,7 +59,7 @@ public:
     long long findKthSmallest(vector<int>& coins, int k) {
         long long result=-1;
         long long start=1;
-      long long End= (long long)(*max_element(begin(coins),end(coins)))*k;
+      long long End =(long long)(*min_element(coins.begin(),coins.end())) *k;
         // coins(3,2,5) -> max = 5.. end = k times multiples of 5 .
         // then apply binary search
         while(start <= End){
