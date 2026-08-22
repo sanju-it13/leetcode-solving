@@ -5,17 +5,14 @@ public:
         int result1=0;
         int result2=1;
         int temp=n;
-        int temp2=n;
 
         while(temp){
-            result1 += temp%10;
+            int digit = temp % 10;
+            result1 += digit;
+            result2 *= digit;
             temp/=10;
          }
-        while(temp2){
-            result2 *= temp2 % 10;
-            temp2 /= 10;
-          }  
-
+    
      int result=result1+result2;
 
     if(n%result ==0)
