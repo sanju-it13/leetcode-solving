@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanju-it13/leetcode-solving/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanju-it13/leetcode-solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanju-it13/leetcode-solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sanju-it13/leetcode-solving/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanju-it13/leetcode-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sanju-it13/leetcode-solving/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sanju-it13/leetcode-solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanju-it13/leetcode-solving/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanju-it13/leetcode-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/sanju-it13/leetcode-solving/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanju-it13/leetcode-solving/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanju-it13/leetcode-solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/sanju-it13/leetcode-solving/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanju-it13/leetcode-solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
@@ -102,17 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanju-it13/leetcode-solving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanju-it13/leetcode-solving/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanju-it13/leetcode-solving/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanju-it13/leetcode-solving/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanju-it13/leetcode-solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sanju-it13/leetcode-solving/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -120,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanju-it13/leetcode-solving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanju-it13/leetcode-solving/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
