@@ -1,44 +1,63 @@
 class Solution {
 public:
-  string result ="";
-  bool solve(string &curr, vector<int>&count,string &target,int i, bool greater){
-        //base case
-    if(i == target.length()){
-         if(greater==true){
-            result = curr;
-            return true;
-         }
-         return false;  
-    }
-   for(char j ='a'; j<='z';j++){
-       if(count[j-'a']==0)
-         continue;
-       if(greater == false && j<target[i])
-          continue;
-
-
-      curr.push_back(j);
-      count[j-'a']--;
-
-        bool isgreater=greater || j > target[i];
-
-        if(solve(curr,count,target,i+1,isgreater)){
-            return true;
-        } 
-        //undo
-        curr.pop_back();
-        count[j-'a']++;   
-   }
-    return false;
-
-  }
     string lexGreaterPermutation(string s, string target) {
-        vector<int>count(26,0);
-        for(char &i : s)
-          count[i -'a']++;
-        
-        string curr;
-        solve(curr,count,target,0,false);
-        return result;
+
+        vector<int> count(26, 0);
+
+        for (char c : s)
+            count[c - 'a']++;
+
+        int n = s.size();
+
+        // Match target from left to right as much as possible
+        int i = 0;
+
+        while (i < n && count[target[i] - 'a'] > 0) {
+            count[target[i] - 'a']--;
+            i++;
+        }
+
+        // Now move backward and try to make the answer greater
+        while (i >= 0) {
+
+            // If we couldn't match target[i], we start from here.
+            if (i < n) {
+
+                // Find smallest available character > target[i]
+                for (int c = target[i] - 'a' + 1; c < 26; c++) {
+
+                    if (count[c] == 0)
+                        continue;
+
+                    string ans = target.substr(0, i);
+
+                    ans.push_back('a' + c);
+
+                    count[c]--;
+
+                    // Fill remaining positions with smallest chars
+                    for (int j = 0; j < 26; j++) {
+                        while (count[j] > 0) {
+                            ans.push_back('a' + j);
+                            count[j]--;
+                        }
+                    }
+
+                    return ans;
+                }
+            }
+
+            // Move one position left.
+            // Restore target[i-1] because it is no longer
+            // part of the fixed prefix.
+            if (i == 0)
+                break;
+
+            i--;
+
+            count[target[i] - 'a']++;
+        }
+
+        return "";
     }
 };
