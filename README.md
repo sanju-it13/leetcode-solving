@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0741-cherry-pickup](https://github.com/sanju-it13/leetcode-solving/tree/master/0741-cherry-pickup) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanju-it13/leetcode-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
