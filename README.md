@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanju-it13/leetcode-solving/tree/master/1510-stone-game-iv) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanju-it13/leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0741-cherry-pickup](https://github.com/sanju-it13/leetcode-solving/tree/master/0741-cherry-pickup) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanju-it13/leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanju-it13/leetcode-solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
