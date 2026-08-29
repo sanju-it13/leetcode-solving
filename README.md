@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0741-cherry-pickup](https://github.com/sanju-it13/leetcode-solving/tree/master/0741-cherry-pickup) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sanju-it13/leetcode-solving/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sanju-it13/leetcode-solving/tree/master/1386-cinema-seat-allocation) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sanju-it13/leetcode-solving/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanju-it13/leetcode-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
