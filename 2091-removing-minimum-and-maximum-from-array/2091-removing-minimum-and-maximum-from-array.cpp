@@ -9,8 +9,6 @@ public:
               mini=nums[i];
               min_index=i;
             }
-        }
-        for(int i=0;i<n;i++){
             if(nums[i]>maxi){
               maxi=nums[i];
               max_index=i;
