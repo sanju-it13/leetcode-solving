@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanju-it13/leetcode-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanju-it13/leetcode-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/sanju-it13/leetcode-solving/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanju-it13/leetcode-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/sanju-it13/leetcode-solving/tree/master/1386-cinema-seat-allocation) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanju-it13/leetcode-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
