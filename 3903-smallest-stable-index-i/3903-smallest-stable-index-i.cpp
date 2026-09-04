@@ -3,17 +3,18 @@ public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
 
-        for(int i=0; i<n;i++){
-         int maxi= INT_MIN;
-         for(int j=0;j<=i;j++){
-            maxi=max(maxi,nums[j]);
+       // mini suffix..
+        vector<int>minsuffix(n);
+        minsuffix[n-1]=nums[n-1];
+        for(int i =n-2;i>=0;i--){
+            minsuffix[i]=min(minsuffix[i+1],nums[i]);
          }
-          int mini = INT_MAX;
-          for(int j=i;j<n;j++){
-            mini=min(mini,nums[j]);
-          }
-        
-        int stable = maxi - mini;
+
+         int maxi=nums[0];
+        for(int i=0; i<n;i++){
+         maxi=max(maxi,nums[i]);  
+
+        int stable = maxi - minsuffix[i];
         if(stable <= k)
           return i;
         
