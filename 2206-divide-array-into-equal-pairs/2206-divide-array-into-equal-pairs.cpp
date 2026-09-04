@@ -1,17 +1,16 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_map<int, int> freq;
+        unordered_set<int>st;
+      // every element must present even number time.
+        for(int x : nums){
 
-        for (int x : nums) {
-            freq[x]++;
+            if(st.count(x))
+              st.erase(x);
+            else
+              st.insert(x);  
         }
 
-        for (auto [x, count] : freq) {
-            if (count % 2 != 0)
-                return false;
-        }
-
-        return true;
+        return st.empty();
     }
 };
