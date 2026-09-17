@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sanju-it13/leetcode-solving/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/sanju-it13/leetcode-solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanju-it13/leetcode-solving/tree/master/2029-stone-game-ix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/sanju-it13/leetcode-solving/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/sanju-it13/leetcode-solving/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanju-it13/leetcode-solving/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/sanju-it13/leetcode-solving/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanju-it13/leetcode-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanju-it13/leetcode-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sanju-it13/leetcode-solving/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanju-it13/leetcode-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
