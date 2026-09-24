@@ -1,9 +1,8 @@
 class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
-        // brute force
+       
         int count=0;
-        if(k<=1) return 0;
         int start=0,end=0;
         int product=1;
         while(end<nums.size()){
