@@ -8,7 +8,7 @@ public:
         int product=1;
         while(end<nums.size()){
           product*=nums[end];
-          while(product >=k){
+          while(product >=k && start<=end){
             // shrink the window
             product/=nums[start];
             start++;
