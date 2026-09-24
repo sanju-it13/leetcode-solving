@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanju-it13/leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0713-subarray-product-less-than-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanju-it13/leetcode-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanju-it13/leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0852-peak-index-in-a-mountain-array) |
