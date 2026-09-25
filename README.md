@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sanju-it13/leetcode-solving/tree/master/0076-minimum-window-substring) |
+| [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/sanju-it13/leetcode-solving/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanju-it13/leetcode-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanju-it13/leetcode-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/sanju-it13/leetcode-solving/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Graph Theory
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanju-it13/leetcode-solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sanju-it13/leetcode-solving/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sanju-it13/leetcode-solving/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanju-it13/leetcode-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanju-it13/leetcode-solving/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -278,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanju-it13/leetcode-solving/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
