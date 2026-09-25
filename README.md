@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanju-it13/leetcode-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanju-it13/leetcode-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanju-it13/leetcode-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/sanju-it13/leetcode-solving/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanju-it13/leetcode-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/sanju-it13/leetcode-solving/tree/master/1872-stone-game-viii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/sanju-it13/leetcode-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/sanju-it13/leetcode-solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanju-it13/leetcode-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanju-it13/leetcode-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanju-it13/leetcode-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sanju-it13/leetcode-solving/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sanju-it13/leetcode-solving/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanju-it13/leetcode-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sanju-it13/leetcode-solving/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanju-it13/leetcode-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
