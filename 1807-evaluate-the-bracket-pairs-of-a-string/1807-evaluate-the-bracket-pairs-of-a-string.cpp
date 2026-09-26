@@ -16,11 +16,8 @@ public:
                 key+=s[i];
                 i++;
              }
-            auto x = mp.find(key);
-            if(x!=mp.end())
-              result+= x->second;
-            else
-              result+= "?";  
+             //c++ 20 
+           result+=mp.contains(key) ? mp.at(key) : "?";
           }
           else
             result+=s[i];
