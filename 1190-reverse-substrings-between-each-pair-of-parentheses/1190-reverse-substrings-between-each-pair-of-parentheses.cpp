@@ -1,17 +1,17 @@
 class Solution {
 public:
     string reverseParentheses(string s) {
-        vector<string> stack;
+        stack<string> st;
         string current = "";
 
         for (char ch : s) {
             if (ch == '(') {
-                stack.push_back(current);
+                st.push(current);
                 current = "";
             } else if (ch == ')') {
                 reverse(current.begin(), current.end());
-                string previous = stack.back();
-                stack.pop_back();
+                string previous = st.top();
+                st.pop();
                 current = previous + current;
             } else {
                 current = current + ch;
