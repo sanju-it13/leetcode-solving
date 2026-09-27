@@ -1,23 +1,32 @@
 class Solution {
 public:
     string reverseParentheses(string s) {
-        stack<string> st;
-        string current = "";
-
+        stack<char> st;
         for (char ch : s) {
-            if (ch == '(') {
-                st.push(current);
-                current = "";
-            } else if (ch == ')') {
-                reverse(current.begin(), current.end());
-                string previous = st.top();
+           if(ch == ')'){
+            string temp="";
+            // pop character until '('
+            while(!st.empty() && st.top() !='('){
+                temp+=st.top();
                 st.pop();
-                current = previous + current;
-            } else {
-                current = current + ch;
-            }
+             }
+              // after that remove '(' this from stack
+              if(!st.empty())
+                st.pop();
+              for(char c : temp)
+                st.push(c);  
+           }
+           else{
+            st.push(ch);
+           }
         }
 
-        return current;
+        string result="";
+        while(!st.empty()){
+            result+=st.top();
+            st.pop();
+        }
+        reverse(result.begin(),result.end());
+        return result;
     }
 };
