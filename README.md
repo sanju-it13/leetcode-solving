@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sanju-it13/leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanju-it13/leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sanju-it13/leetcode-solving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0209-minimum-size-subarray-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sanju-it13/leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0741-cherry-pickup](https://github.com/sanju-it13/leetcode-solving/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1140-stone-game-ii) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sanju-it13/leetcode-solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
