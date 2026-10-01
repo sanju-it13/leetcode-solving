@@ -2,7 +2,10 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char>st;
-        for(char & ch: s){
+
+        if (s.size() % 2 != 0) return 0;
+
+        for(char ch: s){
             if(ch=='(' || ch=='{' || ch =='['){
                 st.push(ch);
             }
@@ -15,8 +18,7 @@ public:
                     else
                        st.pop();  
                 }
-                       
-                else if(ch == '}'){
+                 else if(ch == '}'){
                     if(st.top() != '{')
                       return 0;
                     else
