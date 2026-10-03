@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sanju-it13/leetcode-solving/tree/master/0053-maximum-subarray) |
 | [0741-cherry-pickup](https://github.com/sanju-it13/leetcode-solving/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/sanju-it13/leetcode-solving/tree/master/0931-minimum-falling-path-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sanju-it13/leetcode-solving/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sanju-it13/leetcode-solving/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanju-it13/leetcode-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
